@@ -30,7 +30,6 @@ namespace II_Zjazd_Framework_v2
                         }
                     }
                 }
-
             }
         }
     }
